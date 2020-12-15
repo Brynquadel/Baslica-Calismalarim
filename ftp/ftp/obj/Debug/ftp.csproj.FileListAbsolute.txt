@@ -1,0 +1,27 @@
+c:\users\demir\documents\visual studio 2017\Projects\ftp\ftp\bin\Debug\ftp.exe.config
+c:\users\demir\documents\visual studio 2017\Projects\ftp\ftp\bin\Debug\ftp.exe
+c:\users\demir\documents\visual studio 2017\Projects\ftp\ftp\bin\Debug\ftp.pdb
+c:\users\demir\documents\visual studio 2017\Projects\ftp\ftp\obj\Debug\ftp.csprojResolveAssemblyReference.cache
+c:\users\demir\documents\visual studio 2017\Projects\ftp\ftp\obj\Debug\ftp.exe
+c:\users\demir\documents\visual studio 2017\Projects\ftp\ftp\obj\Debug\ftp.pdb
+C:\Users\demir\Desktop\ftp\ftp\bin\Debug\ftp.exe.config
+C:\Users\demir\Desktop\ftp\ftp\bin\Debug\ftp.exe
+C:\Users\demir\Desktop\ftp\ftp\bin\Debug\ftp.pdb
+C:\Users\demir\Desktop\ftp\ftp\obj\Debug\ftp.csprojResolveAssemblyReference.cache
+C:\Users\demir\Desktop\ftp\ftp\obj\Debug\ftp.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\ftp\ftp\obj\Debug\ftp.exe
+C:\Users\demir\Desktop\ftp\ftp\obj\Debug\ftp.pdb
+C:\Users\Mustafa Demirel\Google Drive\Dokümanlar\Projeler\ftp\ftp\bin\Debug\ftp.exe.config
+C:\Users\Mustafa Demirel\Google Drive\Dokümanlar\Projeler\ftp\ftp\bin\Debug\ftp.exe
+C:\Users\Mustafa Demirel\Google Drive\Dokümanlar\Projeler\ftp\ftp\bin\Debug\ftp.pdb
+C:\Users\Mustafa Demirel\Google Drive\Dokümanlar\Projeler\ftp\ftp\obj\Debug\ftp.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Demirel\Google Drive\Dokümanlar\Projeler\ftp\ftp\obj\Debug\ftp.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Demirel\Google Drive\Dokümanlar\Projeler\ftp\ftp\obj\Debug\ftp.exe
+C:\Users\Mustafa Demirel\Google Drive\Dokümanlar\Projeler\ftp\ftp\obj\Debug\ftp.pdb
+C:\Users\demir\Desktop\Projelerim\ftp\ftp\bin\Debug\ftp.exe.config
+C:\Users\demir\Desktop\Projelerim\ftp\ftp\bin\Debug\ftp.exe
+C:\Users\demir\Desktop\Projelerim\ftp\ftp\bin\Debug\ftp.pdb
+C:\Users\demir\Desktop\Projelerim\ftp\ftp\obj\Debug\ftp.csprojAssemblyReference.cache
+C:\Users\demir\Desktop\Projelerim\ftp\ftp\obj\Debug\ftp.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Projelerim\ftp\ftp\obj\Debug\ftp.exe
+C:\Users\demir\Desktop\Projelerim\ftp\ftp\obj\Debug\ftp.pdb

@@ -1,0 +1,16 @@
+C:\Users\demir\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\bin\Debug\xml_datagridview_aktar.exe
+C:\Users\demir\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.csprojResolveAssemblyReference.cache
+C:\Users\demir\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.Form1.resources
+C:\Users\demir\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.Properties.Resources.resources
+C:\Users\demir\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.csproj.GenerateResource.Cache
+C:\Users\demir\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.exe
+C:\Users\demir\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.pdb
+C:\Users\demir\Desktop\xml_datagridview_aktar\xml_datagridview_aktar\bin\Debug\xml_datagridview_aktar.pdb
+D:\İnceleme Bölümü\eski masaüstü2\xml_datagridview_aktar\xml_datagridview_aktar\bin\Debug\xml_datagridview_aktar.exe
+D:\İnceleme Bölümü\eski masaüstü2\xml_datagridview_aktar\xml_datagridview_aktar\bin\Debug\xml_datagridview_aktar.pdb
+D:\İnceleme Bölümü\eski masaüstü2\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.csprojResolveAssemblyReference.cache
+D:\İnceleme Bölümü\eski masaüstü2\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.Form1.resources
+D:\İnceleme Bölümü\eski masaüstü2\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.Properties.Resources.resources
+D:\İnceleme Bölümü\eski masaüstü2\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.csproj.GenerateResource.Cache
+D:\İnceleme Bölümü\eski masaüstü2\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.exe
+D:\İnceleme Bölümü\eski masaüstü2\xml_datagridview_aktar\xml_datagridview_aktar\obj\Debug\xml_datagridview_aktar.pdb

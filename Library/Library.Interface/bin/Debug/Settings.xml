@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Setting id="1">
+    <State>True</State>
+  </Setting>
+  <Setting id="2">
+    <State>False</State>
+  </Setting>
+</Settings>

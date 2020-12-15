@@ -1,0 +1,157 @@
+
+
+        <div class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header text-center">
+                        <h4 class="modal-title w-100 font-weight-bold">Hesaba Giriş</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body mx-3">
+                        <div class="md-form mb-5">
+                            <input type="email" id="defaultForm-email" class="form-control validate">
+                            <label data-error="wrong" data-success="right" for="defaultForm-email">Email Adresiniz</label>
+                        </div>
+
+                        <div class="md-form mb-4">
+                            <input type="password" id="defaultForm-pass" class="form-control validate">
+                            <label data-error="wrong" data-success="right" for="defaultForm-pass">Şifreniz</label>
+                        </div>
+
+
+
+                            <div class="text-center">
+                                <!-- Remember me -->
+                                <div class="custom-control custom-checkbox d-block pb-3">
+                                    <input type="checkbox" class="custom-control-input" id="defaultLoginFormRemember">
+                                    <label class="custom-control-label" for="defaultLoginFormRemember">Beni Hatırla</label>
+                                </div>
+
+                                <button class="btn btn-primary mb-3">Giriş</button>
+                            </div>
+
+
+
+                    </div>
+
+
+
+
+                    <div class="modal-footer text-center">
+                        <div class="col-6"><a href="#">Şifremi Unuttum!</a></div>
+                        <div class="col-6">Üye değilim! <a data-dismiss="modal" data-toggle="modal" data-target="#modalRegisterForm">Kayıt Ol</a></div>
+                    </div>
+
+
+    <div class="modal-footer"></div>
+          <div class="row text-center">
+            <div class="col-12 d-block"><span class="small">veya sosyal medya hesabı ile giriş yapın:</span></div>
+            <div class="col-12 d-block pt-3 pb-5">
+              <a class="light-blue-text mx-3">
+              <i class="fa fa-facebook"></i>
+              </a>
+              <a class="light-blue-text mx-3">
+              <i class="fa fa-twitter"></i>
+              </a>
+              <a class="light-blue-text mx-3">
+              <i class="fa fa-linkedin"></i>
+              </a>
+              <a class="light-blue-text mx-3">
+              <i class="fa fa-github"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="modal fade" id="modalRegisterForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header text-center">
+                            <h4 class="modal-title w-100 font-weight-bold">Kayıt Ol</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body mx-3">
+                            <div class="md-form mb-5">
+                                <input type="text" id="orangeForm-name" class="form-control validate">
+                                <label data-error="wrong" data-success="right" for="orangeForm-name">İsim Soyisim</label>
+                            </div>
+                            <div class="md-form mb-5">
+                                <input type="email" id="orangeForm-email" class="form-control validate">
+                                <label data-error="wrong" data-success="right" for="orangeForm-email">Email Adresiniz</label>
+                            </div>
+
+                            <div class="md-form mb-4">
+                                <input type="password" id="orangeForm-pass" class="form-control validate">
+                                <label data-error="wrong" data-success="right" for="orangeForm-pass">Şifre girin</label>
+                            </div>
+
+                            <div class="text-center">
+                                <!-- Remember me -->
+                                <div class="custom-control custom-checkbox d-block pb-3">
+                                    <input type="checkbox" class="custom-control-input" id="defaultLoginFormRemember">
+                                    <label class="custom-control-label" for="defaultLoginFormRemember">Ayrıca bültene abone ol</label>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="modal-footer d-flex justify-content-center pt-4">
+                          <button class="btn btn-deep-orange">Kayıt Ol <i class="fa fa-paper-plane-o ml-1"></i></button>
+                        </div>
+
+                              <div class="row text-center pt-2">
+                                <div class="col-12 d-block"><span class="small">veya sosyal medya hesabı ile giriş yapın:</span></div>
+                                <div class="col-12 d-block pt-3 pb-4">
+                                  <a class="light-blue-text mx-3">
+                                  <i class="fa fa-facebook"></i>
+                                  </a>
+                                  <a class="light-blue-text mx-3">
+                                  <i class="fa fa-twitter"></i>
+                                  </a>
+                                  <a class="light-blue-text mx-3">
+                                  <i class="fa fa-linkedin"></i>
+                                  </a>
+                                  <a class="light-blue-text mx-3">
+                                  <i class="fa fa-github"></i>
+                                  </a>
+                                </div>
+                              </div>
+
+
+                              <div class="modal-footer d-flex justify-content-center">
+                               <span class="py-2">  Zaten bir hesabım var!<a class="ml-2" data-dismiss="modal" data-toggle="modal" data-target="#modalLoginForm">Giriş Yap</a></span>
+                              </div>
+
+
+                            </div>
+
+
+
+
+                    </div>
+                </div>
+            </div>

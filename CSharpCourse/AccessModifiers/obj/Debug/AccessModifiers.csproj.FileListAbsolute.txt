@@ -1,0 +1,6 @@
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.pdb

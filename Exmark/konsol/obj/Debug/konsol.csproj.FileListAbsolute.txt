@@ -1,0 +1,9 @@
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\bin\Debug\konsol.exe.config
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\bin\Debug\konsol.exe
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\bin\Debug\konsol.pdb
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\bin\Debug\Exmark.dll
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\bin\Debug\Exmark.pdb
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\obj\Debug\konsol.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\obj\Debug\konsol.csproj.CopyComplete
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\obj\Debug\konsol.exe
+C:\Users\Mustafa Demirel\source\repos\Exmark\konsol\obj\Debug\konsol.pdb

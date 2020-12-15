@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveMethods>
+  <SaveMethod id="0">
+    <Method>true</Method>
+  </SaveMethod>
+  <SaveMethod id="0">
+    <Method>true</Method>
+  </SaveMethod>
+  <SaveMethod id="0">
+    <entity>Student</entity>
+    <Method>true</Method>
+  </SaveMethod>
+</SaveMethods>

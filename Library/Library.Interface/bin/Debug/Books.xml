@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book id="1">
+    <BookName>Dün Bugün Yarın</BookName>
+    <BookType>Gündem</BookType>
+    <BookBarcode>28156545</BookBarcode>
+    <BookAuthor>Hasan Atilla UĞUR</BookAuthor>
+    <BookPublisher>Esen</BookPublisher>
+    <DateOfIssue>30.08.2020 22:13:51</DateOfIssue>
+    <DateOfCommitment>30.08.2020 00:00:00</DateOfCommitment>
+    <BookLocation>2</BookLocation>
+    <BookReleaseDate>20.10.2018 00:00:00</BookReleaseDate>
+  </Book>
+  <Book id="2">
+    <BookName>Yüzüklerin Efendisi</BookName>
+    <BookType>Fantastik 2</BookType>
+    <BookBarcode>54654654654</BookBarcode>
+    <BookAuthor>JR Tolkien 2</BookAuthor>
+    <BookPublisher>Metis Yayıncılık 2</BookPublisher>
+    <DateOfIssue>31.08.2020 22:14:35</DateOfIssue>
+    <DateOfCommitment>1.01.0001 00:00:00</DateOfCommitment>
+    <BookLocation>0</BookLocation>
+    <BookReleaseDate>9.04.2020 00:00:00</BookReleaseDate>
+  </Book>
+  <Book id="3">
+    <BookName>Amazon</BookName>
+    <BookType>Gelişim</BookType>
+    <BookBarcode>24614289</BookBarcode>
+    <BookAuthor>John Rossman</BookAuthor>
+    <BookPublisher>Martı</BookPublisher>
+    <DateOfIssue>30.08.2020 22:14:02</DateOfIssue>
+    <DateOfCommitment>13.09.2020 00:00:00</DateOfCommitment>
+    <BookLocation>3</BookLocation>
+    <BookReleaseDate>20.10.2018 00:00:00</BookReleaseDate>
+  </Book>
+  <Book id="4">
+    <BookName>Çöl Çiçeği</BookName>
+    <BookType>Hikaye</BookType>
+    <BookBarcode>38543424</BookBarcode>
+    <BookAuthor>Waris Dirie</BookAuthor>
+    <BookPublisher>IB</BookPublisher>
+    <DateOfIssue>0001-01-01T00:00:00</DateOfIssue>
+    <DateOfCommitment>0001-01-01T00:00:00</DateOfCommitment>
+    <BookLocation>0</BookLocation>
+    <BookReleaseDate>2018-10-20T00:00:00</BookReleaseDate>
+  </Book>
+  <Book id="5">
+    <BookName>asdasdasd</BookName>
+    <BookType>asdasdasd</BookType>
+    <BookBarcode>asdasdsad</BookBarcode>
+    <BookAuthor>asdasdasd</BookAuthor>
+    <BookPublisher>asdasdasd</BookPublisher>
+    <DateOfIssue>31.08.2020 22:10:36</DateOfIssue>
+    <DateOfCommitment>14.09.2020 00:00:00</DateOfCommitment>
+    <BookLocation>3</BookLocation>
+    <BookReleaseDate>14.10.2020 00:00:00</BookReleaseDate>
+  </Book>
+  <Book id="6">
+    <BookName>Dün Bugün Yarın</BookName>
+    <BookType>Gündem</BookType>
+    <BookBarcode>28156545</BookBarcode>
+    <BookAuthor>Hasan Atilla UĞUR</BookAuthor>
+    <BookPublisher>Esen</BookPublisher>
+    <DateOfIssue>2020-08-31T22:16:37.3731013+03:00</DateOfIssue>
+    <DateOfCommitment>0001-01-01T00:00:00</DateOfCommitment>
+    <BookLocation>0</BookLocation>
+    <BookReleaseDate>2018-10-20T00:00:00</BookReleaseDate>
+  </Book>
+  <Book id="7">
+    <BookName>Yüzüklerin Efendisi: Yüzük Kardeşliği</BookName>
+    <BookType>Fantastik</BookType>
+    <BookBarcode>55656432</BookBarcode>
+    <BookAuthor>JR Tolkien</BookAuthor>
+    <BookPublisher>Metis Yayıncılık</BookPublisher>
+    <DateOfIssue>2020-08-31T22:16:38.7184615+03:00</DateOfIssue>
+    <DateOfCommitment>0001-01-01T00:00:00</DateOfCommitment>
+    <BookLocation>0</BookLocation>
+    <BookReleaseDate>2018-10-20T00:00:00</BookReleaseDate>
+  </Book>
+  <Book id="8">
+    <BookName>Amazon</BookName>
+    <BookType>Gelişim</BookType>
+    <BookBarcode>24614289</BookBarcode>
+    <BookAuthor>John Rossman</BookAuthor>
+    <BookPublisher>Martı</BookPublisher>
+    <DateOfIssue>2020-08-31T22:16:39.0257407+03:00</DateOfIssue>
+    <DateOfCommitment>0001-01-01T00:00:00</DateOfCommitment>
+    <BookLocation>0</BookLocation>
+    <BookReleaseDate>2018-10-20T00:00:00</BookReleaseDate>
+  </Book>
+  <Book id="9">
+    <BookName>Çöl Çiçeği</BookName>
+    <BookType>Hikaye</BookType>
+    <BookBarcode>38543424</BookBarcode>
+    <BookAuthor>Waris Dirie</BookAuthor>
+    <BookPublisher>IB</BookPublisher>
+    <DateOfIssue>2020-08-31T22:16:39.3940759+03:00</DateOfIssue>
+    <DateOfCommitment>0001-01-01T00:00:00</DateOfCommitment>
+    <BookLocation>0</BookLocation>
+    <BookReleaseDate>2018-10-20T00:00:00</BookReleaseDate>
+  </Book>
+</Books>

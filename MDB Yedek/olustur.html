@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Material Design Bootstrap</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+
+
+
+</head>
+
+<body onload="init();" onkeypress="myFunction()">
+
+<!-- Header-->
+  <header>
+    <!-- Navbar -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light white" id="navbar" style="font-family: 'Open Sans', sans-serif;transition: top 0.3s;">
+        <div class="container">
+
+            <!-- Brand -->
+            <a class="navbar-brand waves-effect" href="https://mdbootstrap.com/material-design-for-bootstrap/" target="_blank">
+              	<img src="logo.png" alt="">
+            </a>
+
+            <!-- Collapse -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Links -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                <!-- Left -->
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link waves-effect" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link waves-effect" href="https://mdbootstrap.com/material-design-for-bootstrap/" target="_blank">About MDB</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link waves-effect" href="https://mdbootstrap.com/getting-started/" target="_blank">Free download</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link waves-effect" href="https://mdbootstrap.com/bootstrap-tutorial/" target="_blank">Free tutorials</a>
+                    </li>
+                </ul>
+
+                <!-- Right -->
+                <ul class="navbar-nav nav-flex-icons">
+                    <li class="nav-item">
+                        <a href="https://twitter.com/MDBootstrap" class="nav-link waves-effect" target="_blank">
+                            <i class="fa fa-flag text-warning"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class=" nav-link border border-light rounded waves-effect">Giriş Yap</a>
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+    </nav>
+    <!-- Navbar -->
+  </header>
+  <!-- /Header-->
+
+    <!-- Start your project here-->
+
+
+    <main style="padding-top:130px;font-family:'Roboto'!important;">
+      <section>
+        <div class="container">
+
+          <div class="row justify-content-center">
+            <div class="col-2 text-center">
+              <button onclick="clickHeader()" class="btn white z-depth-1 shadow-none" style="border-radius:16px;" data-toggle="tooltip" data-placement="left" title="Başlık"><i class="fa fa-header purple-text" style="font-size:18px;"></i></button>
+              <button onclick="clickText()" class="btn white z-depth-1 shadow-none" style="border-radius:16px;" data-toggle="tooltip" data-placement="left" title="Metin"><i class="fa fa-pencil text-warning" style="font-size:19px;"></i></button>
+              <button onclick="clickImage()" class="btn white z-depth-1 shadow-none" style="border-radius:16px;" data-toggle="tooltip" data-placement="left" title="Resim"><i class="fa fa-photo text-info" style="font-size:18px;"></i></button>
+              <button onclick="clickVideo()" class="btn white z-depth-1 shadow-none" style="border-radius:16px;" data-toggle="tooltip" data-placement="left" title="Video"><i class="fa fa-video-camera green-text" style="font-size:19px;"></i></button>
+            </div>
+            <div class="col-8">
+              <!-- Auto-resizing textarea -->
+              <div class="md-form">
+                  <textarea Type="textarea" id="txt-area" class="md-textarea md-textarea-auto form-control" rows="15"></textarea>
+              </div>
+
+              <div class="col text-center">
+                <button url="#" class="btn btn-sm btn-elegant">Gönder</button>
+                <button url="#" class="btn btn-sm btn-elegant">Önizle</button>
+                <button url="#" class="btn btn-sm btn-elegant">Taslak olarak kaydet</button>
+
+              </div>
+
+            </div>
+          </div>
+
+
+
+        </div>
+
+        <section class="mt-5">
+          <div class="row">
+            <div class="col text-center grey lighten-2 py-3"><h5 class="font-weight-normal mb-0">Nasıl içerik oluştururum?</h5></div>
+            <div class="col-12 text-center mt-4"><iframe width="706" height="403" src="https://www.youtube.com/embed/7X6OzKNnuhc" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+          </div>
+        </section>
+
+      </section>
+  </main> <!--Main finish-->
+    <!-- /Start your project here-->
+
+    <!-- Footer -->
+		<footer id="footer">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+					<div class="col-md-7">
+						<div class="footer-widget">
+							<div class="footer-logo">
+								<a href="index.html" class="logo"><img src="logo.png" alt=""></a>
+							</div>
+							<ul class="footer-nav pl-0">
+             		<li><a href="#">Hakkımızda</a></li>
+								<li><a href="#">Gizlilik Politikası</a></li>
+								<li><a href="#">Bize Ulaşın</a></li>
+							</ul>
+							<div class="footer-copyright">
+                <span>turkgelistiriciler.com</span>
+								<span>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
+              </div>
+						</div>
+					</div>
+
+					<div class="col-md-5">
+-
+					</div>
+
+
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</footer>
+		<!-- /Footer -->
+
+    <!-- SCRIPTS -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+
+    <script type="text/javascript" src="js/main.js"></script>
+
+
+
+
+
+
+    <script>
+
+    function clickImage()
+    {
+     document.getElementById("txt-area").value = document.getElementById("txt-area").value + "[IMAGE START]\n[IMAGE FINISH]\n";
+     document.getElementById("txt-area").focus();
+
+     }
+     function clickVideo()
+     {
+      document.getElementById("txt-area").value = document.getElementById("txt-area").value + "[VIDEO START]\n[VIDEO FINISH]\n";
+      document.getElementById("txt-area").focus();
+
+      }
+      function clickText()
+      {
+       document.getElementById("txt-area").value = document.getElementById("txt-area").value + "[TEXT START]\n[TEXT FINISH]\n";
+       document.getElementById("txt-area").focus();
+
+       }
+       function clickHeader()
+       {
+        document.getElementById("txt-area").value = document.getElementById("txt-area").value + "[HEADER START]\n[HEADER FINISH]\n";
+        document.getElementById("txt-area").focus();
+
+        }
+
+
+    </script>
+
+
+
+
+<script type="text/javascript">
+
+
+
+
+
+
+
+
+
+// Tooltips Initialization
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
+
+
+
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+var currentScrollPos = window.pageYOffset;
+if (prevScrollpos > currentScrollPos) {
+document.getElementById("navbar").style.top = "0";
+
+} else {
+document.getElementById("navbar").style.top = "-66px";
+
+}
+prevScrollpos = currentScrollPos;
+}
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,93 @@
+﻿<UserControl x:Class="COED.Pages.Detail"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:COED.Pages"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Width="1100" Height="600">
+    <Border Background="White">
+
+        <StackPanel Orientation="Vertical" Name="xd">
+
+            
+            
+            <WrapPanel HorizontalAlignment="Center" Height="40" VerticalAlignment="Top" Margin="0,0,0,30">
+                <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TRefreshBtn">
+                    <DockPanel Width="19" Height="19">
+                        <Image Source="../Images/t_reload.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    </DockPanel>
+                </Button>
+                <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TXmlBtn">
+                    <DockPanel Width="19" Height="19">
+                        <Image Source="../Images/t_copy.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    </DockPanel>
+                </Button>
+                <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TUploadBtn">
+                    <DockPanel Width="19" Height="19">
+                        <Image Source="../Images/t_upload.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    </DockPanel>
+                </Button>
+                
+                <Border Margin="20,0,20,0" Background="#d9d9d9" CornerRadius="0,0,20,20" Padding="10,0,10,0">
+                    <WrapPanel>
+                        <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TUppBtn">
+                            <DockPanel Width="29" Height="29">
+                                <Image Source="../Images/t_up.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            </DockPanel>
+                        </Button>
+                        <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TDownBtn">
+                            <DockPanel Width="29" Height="29">
+                                <Image Source="../Images/t_down.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            </DockPanel>
+                        </Button>
+                        <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TAddBtn">
+                            <DockPanel Width="26" Height="26">
+                                <Image Source="../Images/t_add.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            </DockPanel>
+                        </Button>
+                        <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TRemoveBtn">
+                            <DockPanel Width="15" Height="15">
+                                <Image Source="../Images/t_delete.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            </DockPanel>
+                        </Button>
+                        <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TPanelBtn">
+                            <DockPanel Width="22" Height="22">
+                                <Image Source="../Images/t_select.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            </DockPanel>
+                        </Button>
+                        <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TClearBtn">
+                            <DockPanel Width="22" Height="22">
+                                <Image Source="../Images/t_clear.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            </DockPanel>
+                        </Button>
+                    </WrapPanel>
+                </Border>
+               
+                <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TSaveBtn">
+                    <DockPanel Width="20" Height="20">
+                        <Image Source="../Images/t_check.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    </DockPanel>
+                </Button>
+                <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TDeleteBtn">
+                    <DockPanel Width="15" Height="15">
+                        <Image Source="../Images/remove2.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    </DockPanel>
+                </Button>
+                <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TDetailBtn">
+                    <DockPanel Width="19" Height="19">
+                        <Image Source="../Images/t_edit.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    </DockPanel>
+                </Button>
+            </WrapPanel>
+            <DockPanel HorizontalAlignment="Center">
+                <ScrollViewer Width="450" Margin="0,0,10,0" HorizontalAlignment="Left" VerticalScrollBarVisibility="Hidden">
+                    <WrapPanel Name="upanel"/>
+                </ScrollViewer>
+                <ScrollViewer Margin="10,0,0,0" Height="520" HorizontalAlignment="Right" VerticalScrollBarVisibility="Hidden">
+                    <WrapPanel Name="dpanel"></WrapPanel>
+                </ScrollViewer>
+            </DockPanel>
+        </StackPanel>
+    </Border>
+</UserControl>

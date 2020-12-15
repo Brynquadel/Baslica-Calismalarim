@@ -1,0 +1,53 @@
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\Library.Business.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\obj\Debug\Library.Business.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\obj\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\obj\Debug\Library.Business.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\obj\Debug\Library.Business.csproj.CopyComplete
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Business\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\Library.Business.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\obj\Debug\Library.Business.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\obj\Debug\Library.Business.csproj.CopyComplete
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\obj\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Business\obj\Debug\Library.Business.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\Library.Business.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\obj\Debug\Library.Business.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\obj\Debug\Library.Business.csproj.CopyComplete
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\obj\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Business\obj\Debug\Library.Business.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\Library.Business.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\Library.Business.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\Library.DataAccess.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\Library.Entity.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\ExcelDataReader.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\Library.DataAccess.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\Library.Entity.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\ExcelDataReader.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\bin\Debug\ExcelDataReader.xml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\obj\Debug\Library.Business.csprojAssemblyReference.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\obj\Debug\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\obj\Debug\Library.Business.csproj.CopyComplete
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\obj\Debug\Library.Business.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Business\obj\Debug\Library.Business.pdb

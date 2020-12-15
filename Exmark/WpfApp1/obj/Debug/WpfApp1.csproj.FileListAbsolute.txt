@@ -1,0 +1,17 @@
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\bin\Debug\Exmark.dll
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\bin\Debug\Exmark.pdb
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mustafa Demirel\source\repos\Exmark\WpfApp1\obj\Debug\WpfApp1.pdb

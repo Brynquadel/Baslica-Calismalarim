@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exmark", "Exmark\Exmark.csproj", "{5C76C7D9-8E40-4732-90F0-0248BF244169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konsol", "konsol\konsol.csproj", "{482A4FD7-C838-4F78-A616-2E84443B49EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{BE1F27CF-A45C-4B75-A03C-905521FF9AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C76C7D9-8E40-4732-90F0-0248BF244169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C76C7D9-8E40-4732-90F0-0248BF244169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C76C7D9-8E40-4732-90F0-0248BF244169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C76C7D9-8E40-4732-90F0-0248BF244169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482A4FD7-C838-4F78-A616-2E84443B49EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482A4FD7-C838-4F78-A616-2E84443B49EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482A4FD7-C838-4F78-A616-2E84443B49EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482A4FD7-C838-4F78-A616-2E84443B49EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1F27CF-A45C-4B75-A03C-905521FF9AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1F27CF-A45C-4B75-A03C-905521FF9AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1F27CF-A45C-4B75-A03C-905521FF9AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1F27CF-A45C-4B75-A03C-905521FF9AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D97027EB-D6A9-47AA-8757-C79CE8FCBA11}
+	EndGlobalSection
+EndGlobal

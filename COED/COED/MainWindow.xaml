@@ -1,0 +1,56 @@
+﻿<Window x:Class="COED.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:COED"
+        mc:Ignorable="d"
+        Title="Content Editör" Height="660" Width="1100" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+    <Border BorderBrush="#b3b3b3" BorderThickness="1">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition />
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <DockPanel Grid.Row="0" Name="TitleBar" VerticalAlignment="Top" Height="40" Background="#f1f1f1">
+                <WrapPanel HorizontalAlignment="Left">
+                    <WrapPanel HorizontalAlignment="Left">
+                        <Button Name="btnHome" Height="40" Width="40" Style="{DynamicResource ButonStyle}">
+                            <DockPanel Width="23" Height="23">
+                                <Image Source="Images/logo2.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            </DockPanel>
+                        </Button>
+                    </WrapPanel>
+                    <WrapPanel HorizontalAlignment="Left">
+                        <Label Name="MSL2" Padding="10,0,15,0" FontFamily="Roboto" FontSize="13" Content="Türk Geliştiriciler Platformu için İçerik Editörü" Height="40" VerticalContentAlignment="Center" FontWeight="Medium" Foreground="#404040"></Label>
+                    </WrapPanel>
+                </WrapPanel>
+                <WrapPanel HorizontalAlignment="Right">
+                    <Button Name="btnExit" Height="40" Width="40" Style="{DynamicResource ButonStyle}">
+                        <DockPanel Width="15" Height="15">
+                            <Image Source="Images/exit.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                        </DockPanel>
+                    </Button>
+                </WrapPanel>
+            </DockPanel>
+
+            <Frame Grid.Row="1" x:Name="ContentFrame"  NavigationUIVisibility="Hidden"></Frame>
+
+
+            <DockPanel Grid.Row="2" Name="Footer" VerticalAlignment="Bottom" Height="40" Background="White">
+                <WrapPanel HorizontalAlignment="Left">
+                    <Label Name="MSL" Padding="15,0,15,0" FontFamily="Roboto" FontSize="14" Content="MD" Height="40" VerticalContentAlignment="Center" FontWeight="Medium" Foreground="OrangeRed"></Label>
+                </WrapPanel>
+                <WrapPanel HorizontalAlignment="Right">
+                    <Label Name="LDB" Padding="15,0,15,0" FontFamily="Roboto" FontSize="14" Content="DB TRUE" Height="40" VerticalContentAlignment="Center" FontWeight="Medium"></Label>
+                    <Label Name="LPS" Padding="15,0,15,0" FontFamily="Roboto" FontSize="14" Content="PS FREE" Height="40" VerticalContentAlignment="Center" FontWeight="Medium"></Label>
+                    <Label Name="LTB" Padding="15,0,15,0" FontFamily="Roboto" FontSize="14" Content="TB 14" Height="40" VerticalContentAlignment="Center" FontWeight="Medium"></Label>
+                    <Label Name="LID" Padding="15,0,15,0" FontFamily="Roboto" FontSize="14" Content="ID 14" Height="40" VerticalContentAlignment="Center" FontWeight="Medium" Foreground="OrangeRed"></Label>
+                    <Label Name="LCC" Padding="15,0,15,0" FontFamily="Roboto" FontSize="14" Content="CC 14" Height="40" VerticalContentAlignment="Center" FontWeight="Medium"></Label>
+                    <Label Name="LSP" Padding="15,0,15,0" FontFamily="Roboto" FontSize="14" Content="SP 14" Height="40" VerticalContentAlignment="Center" FontWeight="Medium"></Label>
+                </WrapPanel>
+            </DockPanel>
+        </Grid>
+    </Border>
+</Window>

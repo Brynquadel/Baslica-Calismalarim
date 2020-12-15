@@ -1,0 +1,9 @@
+
+Web front end olarak MDB,
+(Material Design for Bootstrap) kullanýyoruz.
+https://mdbootstrap.com/
+
+Back-end için orta düzey C# gerekecek, MVC kullanacaðýz.
+
+Proje Adresi: turkgelistiriciler.com
+Proje Markasý: Mevcut deðil.

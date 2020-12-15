@@ -1,0 +1,21 @@
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Entity\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Entity\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Entity\obj\Debug\Library.Entity.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Entity\obj\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Entity\obj\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Entity\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Entity\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Entity\obj\Debug\Library.Entity.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Entity\obj\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Entity\obj\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Entity\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Entity\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Entity\obj\Debug\Library.Entity.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Entity\obj\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Entity\obj\Debug\Library.Entity.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Entity\bin\Debug\Library.Entity.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Entity\bin\Debug\Library.Entity.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Entity\obj\Debug\Library.Entity.csprojAssemblyReference.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Entity\obj\Debug\Library.Entity.csproj.CoreCompileInputs.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Entity\obj\Debug\Library.Entity.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Entity\obj\Debug\Library.Entity.pdb

@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="COED.Pages.Elaboration"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:COED.Pages"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1100">
+    <Grid Background="white">
+
+        <StackPanel HorizontalAlignment="Center">
+
+            <Button Height="40" Width="40" Style="{DynamicResource ButonStyle}" Name="TDetailBackBtn">
+                <DockPanel Width="19" Height="19">
+                    <Image Source="../Images/left.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                </DockPanel>
+            </Button>
+
+
+            <DockPanel>
+                <WrapPanel HorizontalAlignment="Left" Margin="0,0,20,0">
+                    <Image Source="/Images/like.png" Width="16" Height="16" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    <Label Name="ELikeTxt" Content="14"></Label>
+                </WrapPanel>
+                <WrapPanel Orientation="Vertical" HorizontalAlignment="Right" Margin="20,0,0,0">
+                    <Label Name="ECreatedTxt" Content="Created 09.03.2019" FontWeight="Medium"></Label>
+                    <Label Name="EModifiedTxt" Content="Modified 09.03.2019" FontWeight="Medium"></Label>
+                </WrapPanel>
+            </DockPanel>
+
+            <WrapPanel Orientation="Vertical" Margin="0,0,0,16">
+                <Label Content="Visibility" FontSize="15" FontFamily="Open Sans" FontWeight="Medium"></Label>
+                <ComboBox Name="EVisibilityCmb" Width="80" Height="24" BorderThickness="0" FontSize="15" FontFamily="Open Sans" FontWeight="Medium" VerticalContentAlignment="Center"></ComboBox>
+            </WrapPanel>
+
+            <WrapPanel Orientation="Vertical" Margin="0,0,0,16">
+                <Label Content="Main Cateq" FontSize="15" FontFamily="Open Sans" FontWeight="Medium"></Label>
+                <ComboBox Name="EMainCmb"  Width="80" Height="24" BorderThickness="0" FontSize="15" FontFamily="Open Sans" FontWeight="Medium" VerticalContentAlignment="Center"></ComboBox>
+            </WrapPanel>
+
+            <WrapPanel Orientation="Vertical" Margin="0,0,0,16">
+                <Label Content="Sub Cateq" FontSize="15" FontFamily="Open Sans" FontWeight="Medium"></Label>
+                <ComboBox Name="ESubCmb" Width="80" Height="24" BorderThickness="0" FontSize="15" FontFamily="Open Sans" FontWeight="Medium" VerticalContentAlignment="Center"></ComboBox>
+            </WrapPanel>
+
+            <WrapPanel Orientation="Vertical" Margin="0,0,0,16">
+                <Label Content="Owner" FontSize="15" FontFamily="Open Sans" FontWeight="Medium"></Label>
+                <TextBox Name="EOwnerTxt" BorderThickness="0" FontSize="15" FontFamily="Open Sans" FontWeight="Medium" Text="Mustasdasd asdas sad asdasd asas asdasd asdasd afa" VerticalContentAlignment="Center"></TextBox>
+            </WrapPanel>
+
+            <WrapPanel Orientation="Vertical" Margin="0,0,0,16">
+                <Label Content="Header" FontSize="15" FontFamily="Open Sans" FontWeight="Medium"></Label>
+                <TextBox Name="EHeaderTxt" BorderThickness="0" FontSize="15" FontFamily="Open Sans" FontWeight="Medium" Text="Mustasdasd asdas sad asdasd asas asdasd asdasd afa" VerticalContentAlignment="Center"></TextBox>
+            </WrapPanel>
+
+            <WrapPanel Orientation="Vertical" Margin="0,0,0,16">
+                <Label Content="Image" FontSize="15" FontFamily="Open Sans" FontWeight="Medium"></Label>
+                <TextBox Name="EImageTxt" BorderThickness="0" FontSize="15" FontFamily="Open Sans" FontWeight="Medium" Text="Mustasdasd asdas sad asdasd asas asdasd asdasd afa" VerticalContentAlignment="Center"></TextBox>
+            </WrapPanel>
+
+        </StackPanel>
+        
+    </Grid>
+</UserControl>

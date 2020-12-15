@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="COED.Interfaces.InterXml"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:COED.Interfaces"
+             mc:Ignorable="d" 
+              d:DesignHeight="230" d:DesignWidth="500" Width="500" Height="230">
+    <Border Background="#e6e6e6" BorderThickness="1" BorderBrush="#d3d3d3">
+        <StackPanel>
+
+            <DockPanel>
+                <WrapPanel HorizontalAlignment="Left">
+                    <Label Content="Tanımlayın" Padding="12,0,0,0" VerticalContentAlignment="Center" Foreground="#262626" FontSize="16" FontFamily="Roboto" FontWeight="Regular" Height="40"></Label>
+                </WrapPanel>
+                <WrapPanel HorizontalAlignment="Right">
+                    <Button Name="BtnXmlExit" HorizontalAlignment="Right" Height="40" Width="40" Style="{DynamicResource ButonStyle}">
+                        <DockPanel Width="13" Height="13">
+                            <Image Source="/Images/exit.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                        </DockPanel>
+                    </Button>
+                </WrapPanel>
+            </DockPanel>
+
+            <WrapPanel HorizontalAlignment="Center" Margin="0,20,0,0" Orientation="Vertical" >
+                <Image Source="/Images/xml.png" Height="50" RenderOptions.BitmapScalingMode="HighQuality"></Image>
+                <Button Name="BtnXmlDefine" Margin="0,20,0,0" Height="34" Style="{DynamicResource test}" Width="200" VerticalContentAlignment="Center" BorderThickness="0" FontFamily="Roboto" FontSize="14" Content="Define"></Button>
+                <WrapPanel HorizontalAlignment="Center">
+                    <Button Name="BtnXmlCreateId" Tag="1" Margin="0,10,5,0" Height="34" Style="{DynamicResource test}" Width="200" VerticalContentAlignment="Center" BorderThickness="0" FontFamily="Roboto" FontSize="14" Content="create new content"></Button>
+                    <Button Name="BtnXmlEditId" Tag="2" Margin="5,10,0,0" Height="34" Style="{DynamicResource test}" Width="200" VerticalContentAlignment="Center" BorderThickness="0" FontFamily="Roboto" FontSize="14" Content="change existing content"></Button>
+                </WrapPanel>
+            </WrapPanel>
+
+        </StackPanel>
+    </Border>
+</UserControl>

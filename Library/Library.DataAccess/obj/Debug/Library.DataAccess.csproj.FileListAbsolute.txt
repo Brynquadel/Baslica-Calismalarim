@@ -1,0 +1,45 @@
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csproj.CopyComplete
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\obj\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\obj\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csproj.CopyComplete
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\obj\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.DataAccess\obj\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csproj.CopyComplete
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\bin\Debug\Library.DataAccess.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\bin\Debug\Library.DataAccess.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\bin\Debug\ExcelDataReader.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\bin\Debug\Library.Entity.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\bin\Debug\Library.Entity.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\bin\Debug\ExcelDataReader.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\bin\Debug\ExcelDataReader.xml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csprojAssemblyReference.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.csproj.CopyComplete
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.DataAccess\obj\Debug\Library.DataAccess.pdb

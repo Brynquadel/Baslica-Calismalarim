@@ -1,0 +1,347 @@
+﻿@model IEnumerable<TURGWEB.Models.News>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="section">
+    <!-- üst kısım -->
+
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h4 class="mb-5 font-weight-bold">Beğenilenler<img class="ml-2" height="27" width="29" src="~/Images/like.png" /></h4>
+                </div>
+            </div>
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-4.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-2" href="category.html">JavaScript</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against JavaScript-Based CPU Side-Channel Attacks<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-5.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-3" href="category.html">Jquery</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use JQuery?<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-3.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-1" href="category.html">Web Design</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Pagedraw UI Builder Turns Your Website Design Mockup Into Code Automatically<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+        </div>
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h4 class="my-5 font-weight-bold">Popüler<img class="ml-2" height="26" width="28" src="~/Images/star.png" /></h4>
+                </div>
+            </div>
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-4.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-2" href="category.html">JavaScript</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against JavaScript-Based CPU Side-Channel Attacks<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-5.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-3" href="category.html">Jquery</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use JQuery?<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-3.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-1" href="category.html">Web Design</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Pagedraw UI Builder Turns Your Website Design Mockup Into Code Automatically<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+        </div>
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h4 class="my-5 font-weight-bold">Öneriler<img class="ml-2" height="26" width="28" src="~/Images/heart.png" /></h4>
+                </div>
+            </div>
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-4.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-2" href="category.html">JavaScript</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Chrome Extension Protects Against JavaScript-Based CPU Side-Channel Attacks<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-5.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-3" href="category.html">Jquery</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Ask HN: Does Anybody Still Use JQuery?<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+            <!-- post -->
+            <div class="col-md-4">
+                <div class="post">
+                    <a class="post-img" href="blog-post.html"><img src="~/Images/post-3.jpg" alt=""></a>
+                    <div class="post-body">
+                        <div class="post-meta">
+                            <a class="post-category cat-1" href="category.html">Web Design</a>
+                            <span class="post-date">24 saat önce</span>
+                            <span class="post-date ml-2"><i class="fa fa-pencil mr-2"></i>Mustafa Demirel</span>
+                        </div>
+                        <h3 class="post-title"><a href="blog-post.html">Pagedraw UI Builder Turns Your Website Design Mockup Into Code Automatically<img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></a></h3>
+                    </div>
+                </div>
+            </div>
+            <!-- /post -->
+        </div>
+
+    </div>
+</div>
+
+
+<div class="section">
+    <!-- alt kısım -->
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-8">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-title">
+                            <h4 class="my-5 font-weight-bold">Yayın Akışı<img class="ml-2" height="19" width="21" src="~/Images/rss.png" /></h4>
+                        </div>
+                    </div>
+                    <ul class="list-unstyled">
+
+                        @foreach (var item in Model)
+                        {
+                            <!-- post -->
+                            <li class="col-md-12">
+                                <div class="post post-row">
+                                    <a class="post-img" href="blog-post.html"><img src="@item.Resim" alt="" /></a>
+                                    <div class="post-body">
+                                        <div class="post-meta">
+                                            <a href="/Home/Sayfa?Id=1" class="post-category cat-2 text-capitalize">Java</a>
+                                            <span class="post-date mr-3">
+                                                @{
+                                                    DateTime t1 = DateTime.Now;
+                                                    DateTime t2 = Convert.ToDateTime(item.Yayin); // YAYIM TARİHİ
+                                                    var fark = t1 - t2;
+                                                    TimeSpan interval = new TimeSpan(fark.Ticks);
+                                                    int sonuc = 0;
+                                                    int yil = interval.Days;
+                                                    int ay = interval.Days;
+                                                    int gun = interval.Days;
+                                                    int saat = interval.Hours;
+                                                    int dakika = interval.Minutes;
+                                                    // int saniye = interval.Seconds;
+                                                    sonuc = 0;
+                                                    while (true) // Yıl
+                                                    {
+
+                                                        yil = yil - 365;
+                                                        if (0 > yil) { yil = sonuc; break; }
+                                                        else { sonuc++; }
+
+                                                    }
+                                                    sonuc = 0;
+                                                    while (true) // Ay
+                                                    {
+
+                                                        ay = ay - 30;
+                                                        if (0 > ay) { ay = sonuc; break; }
+                                                        else { sonuc++; }
+
+                                                    }
+                                                    if (yil > 0)
+                                                    { <text>@yil yıl önce</text> }
+                                                else
+                                                {
+                                                    if (ay > 0)
+                                                    { <text>@ay ay önce</text> }
+                                                else
+                                                {
+                                                    if (interval.Days > 0)
+                                                    { <text>@interval.Days gün önce</text> }
+                                                else
+                                                {
+                                                    if (interval.Hours > 0)
+                                                    { <text>@interval.Hours saat önce</text> }
+                                                else
+                                                {
+                                                    if (interval.Minutes > 0)
+                                                    { <text>@interval.Minutes dakika önce</text> }
+                                                else
+                                                {
+                                                    <text>Az önce</text>
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                                                }
+                                            </span>
+                                        </div>
+                                        <h3 class="post-title"><a href="blog-post.html">@item.Baslik</a><img class="ml-2" height="22" width="24" src="~/Images/flame.png" /></h3>
+                                        <div style="font-size: 14px;font-weight:600;" class=""><i class="fa fa-pencil mr-2"></i>@item.Yazar</div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- /post -->
+                        }
+
+
+                    </ul>
+
+                    <div class="col-md-12">
+                        <div class="section-row text-center">
+                            <button class="loadmore-button center-block">Load More</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+
+
+                <div class="row">
+                    <div class="col">
+                        <!-- post widget -->
+                        <div class="aside-widget">
+
+                            <div class="section-title">
+                                <h4 class="my-5 font-weight-bold">Duyuru <img class="ml-2" height="26" width="28" src="~/Images/megaphone.png" </h4>
+                            </div>
+
+                            <div class="post mb-5 post-widget">
+                                <div class="post-body">
+                                    <div class="post-meta">
+                                        <span class="post-date mr-3">Az önce</span>
+                                    </div>
+                                    <h3 class="post-title"><a href="blog-post.html">Pagedraw UI Builder Turns Your Website Design Mockup Into Code Automatically</a></h3>
+                                </div>
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="row">
+                    <div class="col">
+                        <!-- post widget -->
+                        <div class="aside-widget">
+                            <div class="section-title">
+                                <h4 class="my-5 font-weight-bold">Alıntılar<img class="ml-2" height="27" width="29" src="~/Images/quote.png" /></h4>
+                            </div>
+                            <div class="post mb-5 post-widget">
+                                <div class="post-body">
+                                    <div class="post-meta">
+                                        <a class="post-category text-capitalize" href="#">Erdem Acar</a>
+                                        <span class="post-date mr-3">Az önce</span>
+                                    </div>
+                                    <p>" Yarın yayınlanacak yeni oyunumuzun duyurusu için sabırsızlanıyorum! "</p>
+                                </div>
+                            </div>
+
+                            <div class="post mb-5 post-widget">
+                                <div class="post-body">
+                                    <div class="post-meta">
+                                        <a class="post-category text-capitalize" href="#">Erdem Acar</a>
+                                        <span class="post-date mr-3">Az önce</span>
+                                    </div>
+                                    <p>" Yarın yayınlanacak yeni oyunumuzun duyurusu için sabırsızlanıyorum! "</p>
+                                </div>
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- /row -->
+        </div>
+        <!-- /container -->
+    </div>
+    <!-- /section -->

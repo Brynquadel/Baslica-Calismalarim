@@ -1,0 +1,79 @@
+﻿<Window x:Class="Library.Interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library.Interface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="620" Width="1100" KeyDown="Window_KeyDown">
+    <Grid>
+        <DockPanel Name="menuExt" Visibility="Visible" VerticalAlignment="Top" Grid.Row="0" Background="#f1f1f1">
+
+            <Menu>
+                <Separator/>
+
+                <Separator/>
+                <MenuItem>
+                    <MenuItem.Header>
+                        <WrapPanel VerticalAlignment="Center" Orientation="Horizontal">
+                            <Image Width="22" Height="22" Source="Images/book.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            <Label FontSize="15" FontFamily="Roboto" Margin="10,0,0,0" VerticalContentAlignment="Center" Content="Kitaplar"></Label>
+                        </WrapPanel>
+                    </MenuItem.Header>
+                    <MenuItem Header="Kitaplar" Click="MenuItem_Click_6"></MenuItem>
+                    <MenuItem Header="Yeni Kitap" Click="MenuItem_Click"/>
+                    <MenuItem Header="Seçili Ögeler">
+                        <MenuItem Header="Görüntüle" Click="MenuItem_Click_2"/>
+                        <MenuItem Header="Kaldır" Click="MenuItem_Click_3"/>
+                    </MenuItem>
+                </MenuItem>
+                <Separator/>
+                <MenuItem>
+                    <MenuItem.Header>
+                        <WrapPanel VerticalAlignment="Center" Orientation="Horizontal">
+                            <Image Width="22" Height="22" Source="Images/student.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            <Label FontSize="15" FontFamily="Roboto" Margin="10,0,0,0" VerticalContentAlignment="Center" Content="Öğrenciler"></Label>
+                        </WrapPanel>
+                    </MenuItem.Header>
+                    <MenuItem Header="Öğrenciler" Click="MenuItem_Click_5"></MenuItem>
+                    <MenuItem Header="Yeni Öğrenci" Click="MenuItem_Click_1"/>
+                    <MenuItem Header="Seçili Ögeler">
+                        <MenuItem Header="Görüntüle" Click="MenuItem_Click_7"/>
+                        <MenuItem Header="Kaldır" Click="MenuItem_Click_8"/>
+                    </MenuItem>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Click="MenuItem_Click_4">
+                    <MenuItem.Header>
+                        <WrapPanel VerticalAlignment="Center" Orientation="Horizontal">
+                            <Image Width="22" Height="22" Source="Images/history.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                            <Label FontSize="15" FontFamily="Roboto" Margin="10,0,0,0" VerticalContentAlignment="Center" Content="Ayarlar ve Kayıtlar"></Label>
+                        </WrapPanel>
+                    </MenuItem.Header>
+          
+                </MenuItem>
+                <Separator></Separator>
+                <MenuItem Click="MenuItem_Click_9">
+                    <MenuItem.Header>
+                        <WrapPanel VerticalAlignment="Center" Orientation="Horizontal">
+                            <Label FontSize="15" FontFamily="Roboto" Margin="10,0,0,0" VerticalContentAlignment="Center" Content="Çıkış Yap"></Label>
+                        </WrapPanel>
+                    </MenuItem.Header>
+
+                </MenuItem>
+            </Menu>
+            <Menu HorizontalAlignment="Right">
+
+                
+
+            </Menu>
+
+        </DockPanel>
+
+        <Frame Margin="0,40,0,0" Name="ConFrame" NavigationUIVisibility="Hidden" Source="Pages/Sequence.xaml"></Frame>
+        <Border Name="mainNotBorder" Height="0" VerticalAlignment="Top" Background="Orange" >
+            <Label Name="mainNotlbl" Height="40" Margin="0,0,20,0" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="17" Content="Bildirim"></Label>
+        </Border>
+        
+    </Grid>
+</Window>

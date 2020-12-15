@@ -1,0 +1,63 @@
+﻿<UserControl x:Class="COED.Pages.Welcome"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:COED.Pages"
+             mc:Ignorable="d" 
+             d:DesignHeight="660" d:DesignWidth="1100">
+    <Grid Background="white">
+        
+        <Label Padding="20,14,0,0" FontSize="20" FontFamily="Roboto" FontWeight="Regular" Content="Welcome"/>
+
+        <DockPanel Width="24" Height="26" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,14,14,0">
+            <Image Name="dbimg" Source="../Images/db_yes.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+        </DockPanel>
+
+
+        <StackPanel VerticalAlignment="Center">
+
+            <WrapPanel Name="wcreate" Orientation="Horizontal" Width="280" Height="80" Margin="0,6,0,6">
+                <Button Width="280" Height="80" BorderThickness="0" Style="{DynamicResource ButonStyle}" Name="wcreatebtn">
+                    <WrapPanel>
+                        <DockPanel HorizontalAlignment="Left" Width="30" Height="80">
+                            <Image Source="../Images/tu_add.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                        </DockPanel>
+                        <DockPanel HorizontalAlignment="Right" Margin="20,0,0,0">
+                            <TextBlock FontFamily="Roboto" Text="Create New Content" FontSize="16" Foreground="#333333"  FontWeight="Medium" VerticalAlignment="Center"/>
+                        </DockPanel>
+                    </WrapPanel>
+                </Button>
+            </WrapPanel>
+            
+            <WrapPanel Name="wedit" Orientation="Horizontal" Width="280" Height="80" Margin="0,6,0,6">
+                <Button Width="280" Height="80" BorderThickness="0" Style="{DynamicResource ButonStyle}" Name="weditbtn">
+                    <WrapPanel>
+                        <DockPanel HorizontalAlignment="Left" Width="30" Height="80">
+                            <Image Source="../Images/tu_edit.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                        </DockPanel>
+                        <DockPanel HorizontalAlignment="Right" Margin="20,0,0,0">
+                            <TextBlock FontFamily="Roboto" Text="Edit Existing Content" FontSize="16" Foreground="#333333"  FontWeight="Medium" VerticalAlignment="Center"/>
+                        </DockPanel>
+                    </WrapPanel>
+                </Button>
+            </WrapPanel>
+            
+            <WrapPanel Name="wxml" Orientation="Horizontal" Width="280" Height="80" Margin="0,6,0,6">
+                <Button Width="280" Height="80" BorderThickness="0" Style="{DynamicResource ButonStyle}" Name="wxmlbtn">
+                    <WrapPanel>
+                        <DockPanel HorizontalAlignment="Left" Width="30" Height="80">
+                            <Image Source="../Images/tu_xml.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+                        </DockPanel>
+                        <DockPanel HorizontalAlignment="Right" Margin="20,0,0,0">
+                            <TextBlock FontFamily="Roboto" Text="Work with Xml Files" FontSize="16" Foreground="#333333"  FontWeight="Medium" VerticalAlignment="Center"/>
+                        </DockPanel>
+                    </WrapPanel>
+                </Button>
+            </WrapPanel>
+            
+        </StackPanel>
+        
+        
+    </Grid>
+</UserControl>

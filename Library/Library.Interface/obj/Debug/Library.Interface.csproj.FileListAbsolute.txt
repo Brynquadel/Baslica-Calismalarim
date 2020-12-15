@@ -1,0 +1,250 @@
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Pages\Sequence.g.cs
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\App.g.cs
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface_MarkupCompile.cache
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface_MarkupCompile.lref
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.Interface.exe.config
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.Interface.exe
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.Interface.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Pages\Home.g.cs
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\App.baml
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\MainWindow.baml
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Pages\Home.baml
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Pages\Sequence.baml
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface.g.resources
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface.Properties.Resources.resources
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface.csproj.GenerateResource.cache
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface.csproj.CopyComplete
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface.exe
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Library.Interface.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Pages\DetailBook.g.cs
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Pages\DetailBook.baml
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.Business.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Pages\DetailStudent.g.cs
+C:\Users\Mustafa Demirel\source\repos\Library\Library.Interface\obj\Debug\Pages\DetailStudent.baml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Pages\DetailBook.g.cs
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Pages\DetailStudent.g.cs
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Pages\Sequence.g.cs
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\App.g.cs
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface_MarkupCompile.cache
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface_MarkupCompile.lref
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface.exe
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.Interface.exe.config
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.Interface.exe
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.Interface.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.Business.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\App.baml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\MainWindow.baml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Pages\DetailBook.baml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Pages\DetailStudent.baml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Pages\Sequence.baml
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface.g.resources
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface.Properties.Resources.resources
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface.csproj.GenerateResource.cache
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Library.Interface.csproj.CopyComplete
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Pages\Settings.g.cs
+C:\Users\Mustafa Demirel\Desktop\Library\Library.Interface\obj\Debug\Pages\Settings.baml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.Interface.exe.config
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.Interface.exe
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.Interface.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.Business.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.Entity.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.DataAccess.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\ExcelDataReader.dll
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.Business.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.Entity.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\Library.DataAccess.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\bin\Debug\ExcelDataReader.xml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Pages\DetailBook.g.cs
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Pages\DetailStudent.g.cs
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Pages\Sequence.g.cs
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Pages\Settings.g.cs
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\App.g.cs
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface_MarkupCompile.cache
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface_MarkupCompile.lref
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\App.baml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\MainWindow.baml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Pages\DetailBook.baml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Pages\DetailStudent.baml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Pages\Sequence.baml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Pages\Settings.baml
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface.g.resources
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface.Properties.Resources.resources
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface.csproj.GenerateResource.cache
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface.csproj.CopyComplete
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface.exe
+C:\Users\Mustafa Demirel\Desktop\New folder (2)\Library\Library.Interface\obj\Debug\Library.Interface.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.Interface.exe.config
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.Interface.exe
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.Interface.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.Business.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.Entity.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.DataAccess.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ExcelDataReader.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.Business.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.Entity.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Library.DataAccess.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ExcelDataReader.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ExcelDataReader.xml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.csprojAssemblyReference.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\MainWindow.g.cs
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\DetailBook.g.cs
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\DetailStudent.g.cs
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\Sequence.g.cs
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\Settings.g.cs
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\App.g.cs
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface_MarkupCompile.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface_MarkupCompile.lref
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\App.baml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\MainWindow.baml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\DetailBook.baml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\DetailStudent.baml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\Sequence.baml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\Settings.baml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.g.resources
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.Properties.Resources.resources
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.csproj.GenerateResource.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.csproj.CoreCompileInputs.cache
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.csproj.CopyComplete
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.exe
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.pdb
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\netstandard.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.AppContext.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Collections.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Collections.Specialized.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.ComponentModel.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Console.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Data.Common.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Globalization.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.Compression.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.FileSystem.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.Pipes.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Linq.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Linq.Expressions.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Linq.Parallel.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Linq.Queryable.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.Http.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.NameResolution.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.Ping.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.Primitives.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.Requests.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.Security.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.Sockets.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Net.WebSockets.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.ObjectModel.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Reflection.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Resources.Reader.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Resources.Writer.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.Handles.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Security.Claims.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Security.Principal.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Security.SecureString.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Text.Encoding.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Threading.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Threading.Tasks.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Threading.Thread.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Threading.Timer.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Xml.XDocument.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Xml.XPath.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ModernWpf.Controls.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ModernWpf.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.ValueTuple.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ModernWpf.xml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ModernWpf.Controls.xml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\System.ValueTuple.xml
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\cs\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\de\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\es\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\fr\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\it\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ja\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ko\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\pl\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\pt-BR\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\ru\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\tr\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\zh-Hans\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\bin\Debug\zh-Hant\ModernWpf.resources.dll
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Library.Interface.exe.config
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\Login.g.cs
+C:\Users\demir\Kişisel\Uygulamalar (Do Edit)\Library\Library.Interface\obj\Debug\Pages\Login.baml

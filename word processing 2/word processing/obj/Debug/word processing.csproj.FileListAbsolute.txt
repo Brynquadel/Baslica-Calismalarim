@@ -1,0 +1,34 @@
+C:\Users\Mustafa Demirel\source\repos\word processing\word processing\bin\Debug\word processing.exe.config
+C:\Users\Mustafa Demirel\source\repos\word processing\word processing\bin\Debug\word processing.exe
+C:\Users\Mustafa Demirel\source\repos\word processing\word processing\bin\Debug\word processing.pdb
+C:\Users\Mustafa Demirel\source\repos\word processing\word processing\obj\Debug\word processing.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\word processing\word processing\obj\Debug\word processing.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Demirel\source\repos\word processing\word processing\obj\Debug\word processing.exe
+C:\Users\Mustafa Demirel\source\repos\word processing\word processing\obj\Debug\word processing.pdb
+C:\Users\Mustafa Demirel\Desktop\word processing\word processing\bin\Debug\word processing.exe.config
+C:\Users\Mustafa Demirel\Desktop\word processing\word processing\bin\Debug\word processing.exe
+C:\Users\Mustafa Demirel\Desktop\word processing\word processing\bin\Debug\word processing.pdb
+C:\Users\Mustafa Demirel\Desktop\word processing\word processing\obj\Debug\word processing.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\word processing\word processing\obj\Debug\word processing.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Demirel\Desktop\word processing\word processing\obj\Debug\word processing.exe
+C:\Users\Mustafa Demirel\Desktop\word processing\word processing\obj\Debug\word processing.pdb
+C:\Users\Mustafa Demirel\Desktop\word processing 2\word processing\bin\Debug\word processing.exe.config
+C:\Users\Mustafa Demirel\Desktop\word processing 2\word processing\bin\Debug\word processing.exe
+C:\Users\Mustafa Demirel\Desktop\word processing 2\word processing\bin\Debug\word processing.pdb
+C:\Users\Mustafa Demirel\Desktop\word processing 2\word processing\obj\Debug\word processing.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\word processing 2\word processing\obj\Debug\word processing.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Demirel\Desktop\word processing 2\word processing\obj\Debug\word processing.exe
+C:\Users\Mustafa Demirel\Desktop\word processing 2\word processing\obj\Debug\word processing.pdb
+D:\word processing 2\word processing\bin\Debug\word processing.exe.config
+D:\word processing 2\word processing\bin\Debug\word processing.exe
+D:\word processing 2\word processing\bin\Debug\word processing.pdb
+D:\word processing 2\word processing\obj\Debug\word processing.csprojAssemblyReference.cache
+D:\word processing 2\word processing\obj\Debug\word processing.csproj.CoreCompileInputs.cache
+D:\word processing 2\word processing\obj\Debug\word processing.exe
+D:\word processing 2\word processing\obj\Debug\word processing.pdb
+L:\Uygulamalar\word processing 2\word processing\bin\Debug\word processing.exe.config
+L:\Uygulamalar\word processing 2\word processing\bin\Debug\word processing.exe
+L:\Uygulamalar\word processing 2\word processing\bin\Debug\word processing.pdb
+L:\Uygulamalar\word processing 2\word processing\obj\Debug\word processing.csprojAssemblyReference.cache
+L:\Uygulamalar\word processing 2\word processing\obj\Debug\word processing.exe
+L:\Uygulamalar\word processing 2\word processing\obj\Debug\word processing.pdb

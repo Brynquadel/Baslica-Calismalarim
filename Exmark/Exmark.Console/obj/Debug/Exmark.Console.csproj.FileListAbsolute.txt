@@ -1,0 +1,10 @@
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\bin\Debug\Exmark.Console.exe.config
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\bin\Debug\Exmark.Console.exe
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\bin\Debug\Exmark.Console.pdb
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\bin\Debug\Exmark.dll
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\bin\Debug\Exmark.pdb
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\obj\Debug\Exmark.Console.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\obj\Debug\Exmark.Console.csproj.CopyComplete
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\obj\Debug\Exmark.Console.exe
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\obj\Debug\Exmark.Console.pdb
+C:\Users\Mustafa Demirel\source\repos\Exmark\Exmark.Console\bin\Debug\System.ComponentModel.Annotations.dll

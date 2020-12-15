@@ -1,0 +1,366 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Material Design Bootstrap</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <link href="css/sis.css" rel="stylesheet">
+
+
+
+
+    <style>
+
+        .tracking-detail {
+            padding: 3rem 0
+        }
+
+        #tracking {
+            margin-bottom: 1rem
+        }
+
+        [class*=tracking-status-] p {
+            margin: 0;
+            font-size: 1.1rem;
+            color: #fff;
+            text-transform: uppercase;
+            text-align: center
+        }
+
+        [class*=tracking-status-] {
+            padding: 1.6rem 0
+        }
+
+        .tracking-status-intransit {
+            background-color: #65aee0
+        }
+
+        .tracking-status-outfordelivery {
+            background-color: #f5a551
+        }
+
+        .tracking-status-deliveryoffice {
+            background-color: #f7dc6f
+        }
+
+        .tracking-status-delivered {
+            background-color: #4cbb87
+        }
+
+        .tracking-status-attemptfail {
+            background-color: #b789c7
+        }
+
+        .tracking-status-error, .tracking-status-exception {
+            background-color: #d26759
+        }
+
+        .tracking-status-expired {
+            background-color: #616e7d
+        }
+
+        .tracking-status-pending {
+            background-color: #ccc
+        }
+
+        .tracking-status-inforeceived {
+            background-color: #214977
+        }
+
+        .tracking-list {
+            border: 1px solid #e5e5e5
+        }
+
+        .tracking-item {
+            border-left: 1px solid #e5e5e5;
+            position: relative;
+            padding: 2rem 1.5rem .5rem 2.5rem;
+            font-size: 16px;
+            margin-left: 3rem;
+            min-height: 5rem
+        }
+
+            .tracking-item:last-child {
+                padding-bottom: 4rem
+            }
+
+            .tracking-item .tracking-date {
+                margin-bottom: .5rem
+            }
+
+                .tracking-item .tracking-date span {
+                    color: #888;
+                    font-size: 85%;
+                    padding-left: .4rem
+                }
+
+            .tracking-item .tracking-content {
+                padding: .5rem .8rem;
+                background-color: #f4f4f4;
+                border-radius: .5rem
+            }
+
+                .tracking-item .tracking-content span {
+                    display: block;
+                    color: #888;
+                    font-size: 85%
+                }
+
+            .tracking-item .tracking-icon {
+                line-height: 2.6rem;
+                position: absolute;
+                left: -1.3rem;
+                width: 2.6rem;
+                height: 2.6rem;
+                text-align: center;
+                border-radius: 50%;
+                font-size: 1.1rem;
+                background-color: #fff;
+                color: #fff
+            }
+
+                .tracking-item .tracking-icon.status-sponsored {
+                    background-color: #f68
+                }
+
+                .tracking-item .tracking-icon.status-delivered {
+                    background-color: #4cbb87
+                }
+
+                .tracking-item .tracking-icon.status-outfordelivery {
+                    background-color: #f5a551
+                }
+
+                .tracking-item .tracking-icon.status-deliveryoffice {
+                    background-color: #f7dc6f
+                }
+
+                .tracking-item .tracking-icon.status-attemptfail {
+                    background-color: #b789c7
+                }
+
+                .tracking-item .tracking-icon.status-exception {
+                    background-color: #d26759
+                }
+
+                .tracking-item .tracking-icon.status-inforeceived {
+                    background-color: #214977
+                }
+
+                .tracking-item .tracking-icon.status-intransit {
+                    color: #e5e5e5;
+                    border: 1px solid #e5e5e5;
+                    font-size: .6rem
+                }
+
+        @media(min-width:992px) {
+            .tracking-item {
+                margin-left: 10rem
+            }
+
+                .tracking-item .tracking-date {
+                    position: absolute;
+                    left: -10rem;
+                    width: 7.5rem;
+                    text-align: right
+                }
+
+                    .tracking-item .tracking-date span {
+                        display: block
+                    }
+
+                .tracking-item .tracking-content {
+                    padding: 0;
+                    background-color: transparent
+                }
+        }
+
+    </style>
+
+
+
+
+
+
+
+</head>
+
+<body>
+
+<!-- Header-->
+  <header>
+    <!-- Navbar -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light white" id="navbar" style="font-family: 'Open Sans', sans-serif;transition: top 0.3s;">
+        <div class="container">
+
+            <!-- Brand -->
+            <a class="navbar-brand waves-effect" href="https://mdbootstrap.com/material-design-for-bootstrap/" target="_blank">
+              	<img src="logo.png" alt="">
+            </a>
+
+            <!-- Collapse -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Links -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                <!-- Left -->
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link waves-effect" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link waves-effect" href="https://mdbootstrap.com/material-design-for-bootstrap/" target="_blank">About MDB</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link waves-effect" href="https://mdbootstrap.com/getting-started/" target="_blank">Free download</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link waves-effect" href="https://mdbootstrap.com/bootstrap-tutorial/" target="_blank">Free tutorials</a>
+                    </li>
+                </ul>
+
+                <!-- Right -->
+                <ul class="navbar-nav nav-flex-icons">
+                    <li class="nav-item">
+                        <a href="https://twitter.com/MDBootstrap" class="nav-link waves-effect" target="_blank">
+                            <i class="fa fa-flag text-warning"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class=" nav-link border border-light rounded waves-effect"
+                            target="_blank">Giriş Yap</a>
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+    </nav>
+    <!-- Navbar -->
+  </header>
+  <!-- /Header-->
+
+    <!-- Start your project here-->
+
+
+    <main style="padding-top:130px;font-family:'Roboto';">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 text-center"><h2>@working</h2></div>
+          <div class="col-10">
+            <div id="tracking">
+            <div class="text-center tracking-status-intransit">
+               <p class="tracking-status text-tight">Gelişim Çizelgesi</p>
+            </div>
+            <div class="tracking-list">
+
+              <div class="tracking-item">
+                 <div class="tracking-icon status-intransit">
+                    <i class="fa fa-cog text-primary" style="font-size:18px;padding-top:12px;"></i>
+                 </div>
+                 <div class="tracking-date">Bugün<span>23:40</span></div>
+                 <div class="tracking-content"><span>Yeni bildirim ekranını geliştiriyoruz, bir kaç gün erişim sıkıntısı yaşayabilirsiniz.</span></div>
+              </div>
+               <div class="tracking-item">
+                  <div class="tracking-icon status-intransit">
+                     <i class="fa fa-check text-success" style="font-size:18px;padding-top:12px;"></i>
+                  </div>
+                  <div class="tracking-date">3 gün önce<span>23:40</span></div>
+                  <div class="tracking-content">Konuşma Bildirimleri<span>Karşılıklı olan konuşmalarda olan gereksiz bildirimler giderildi. Artık sadece @name olarak bildirim atabilir, konuşmalarınızı karşı bildirimle halledebilirsiniz.</span></div>
+               </div>
+               <div class="tracking-item">
+                  <div class="tracking-icon status-intransit">
+                     <i class="fa fa-check text-success" style="font-size:18px;padding-top:12px;"></i>
+                  </div>
+                  <div class="tracking-date">5 gün önce<span>11:04</span></div>
+                  <div class="tracking-content">Soru-Cevap sayfası güncellendi.</div>
+               </div>
+
+            </div>
+         </div>
+          </div>
+        </div>
+      </div>
+  </main> <!--Main finish-->
+    <!-- /Start your project here-->
+
+    <!-- Footer -->
+		<footer id="footer">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+					<div class="col-md-7">
+						<div class="footer-widget">
+							<div class="footer-logo">
+								<a href="index.html" class="logo"><img src="logo.png" alt=""></a>
+							</div>
+							<ul class="footer-nav pl-0">
+             		<li><a href="#">Hakkımızda</a></li>
+								<li><a href="#">Gizlilik Politikası</a></li>
+								<li><a href="#">Bize Ulaşın</a></li>
+							</ul>
+							<div class="footer-copyright">
+                <span>turkgelistiriciler.com</span>
+								<span>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
+              </div>
+						</div>
+					</div>
+
+					<div class="col-md-5">
+-
+					</div>
+
+
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</footer>
+		<!-- /Footer -->
+
+    <!-- SCRIPTS -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="js/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+
+    <script type="text/javascript">
+    var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+var currentScrollPos = window.pageYOffset;
+if (prevScrollpos > currentScrollPos) {
+  document.getElementById("navbar").style.top = "0";
+
+} else {
+  document.getElementById("navbar").style.top = "-66px";
+
+}
+prevScrollpos = currentScrollPos;
+}
+    </script>
+
+</body>
+
+</html>

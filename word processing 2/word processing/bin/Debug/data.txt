@@ -1,0 +1,36 @@
+TEXTDIÞARDA1[TEXT]TEXTÝÇERDE1
+	Bir yazýyý þekil, [b]anlatým ve noktalama[b] özellikleriyle oluþturan kelimelerin bütününe metin adý verilir. 
+Diðer bir ifadeyle metin, iletiþim kurmak için oluþturulan cümleler topluluðudur. 
+Sözlü ya da yazýlý iletiþim içi		n üretilen anlamlý yapýdýr.    ss
+Yazar, iletmek istediði mesajý [i]metin aracýlýðýyla[i] ifade eder.          -mm
+TEXTÝÇERDE2[TEXT]TEXTDIÞARDA2
+
+[Aþaðý yukarý]
+
+CODEDIÞARDA1[CODE]CODEÝÇERDE1
+[HAYIRDIR]
+void draw_color_panel()
+{
+   int left, top, c, color;
+ 
+   left = 100;
+   top = 436;
+ 
+   color = getcolor();
+   setcolor(GREEN);
+   rectangle(4,431,635,457);
+   setcolor(RED);
+   settextstyle(TRIPLEX_FONT,0,2);
+   outtextxy(10,431,"Colors : ");
+ 
+   for( c = 1 ; c <= 15 ; c++ )
+   {
+      setfillstyle(SOLID_FILL, c);
+      bar(left, top, left+16, top+16);
+      leftcolor = left;
+      left += 26;
+   }
+ 
+   setcolor(color);
+}
+CODEÝÇERDE2[CODE]CODEDIÞARDA2

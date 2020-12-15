@@ -1,0 +1,168 @@
+C:\Users\demir\source\repos\COED\COED\bin\Debug\COED.exe.config
+C:\Users\demir\source\repos\COED\COED\bin\Debug\COED.exe
+C:\Users\demir\source\repos\COED\COED\bin\Debug\COED.pdb
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED.csprojAssemblyReference.cache
+C:\Users\demir\source\repos\COED\COED\obj\Debug\MainWindow.g.cs
+C:\Users\demir\source\repos\COED\COED\obj\Debug\App.g.cs
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED_MarkupCompile.cache
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED_MarkupCompile.lref
+C:\Users\demir\source\repos\COED\COED\obj\Debug\MainWindow.baml
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED.g.resources
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED.Properties.Resources.resources
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED.csproj.GenerateResource.cache
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED.exe
+C:\Users\demir\source\repos\COED\COED\obj\Debug\COED.pdb
+C:\Users\demir\source\repos\COED\COED\obj\Debug\App.baml
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Pages\Welcome.g.cs
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Pages\Welcome.baml
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Interfaces\Define.g.cs
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Interfaces\Message.g.cs
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Interfaces\Define.baml
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Interfaces\Message.baml
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Interfaces\InterXml.g.cs
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Pages\Detail.g.cs
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Pages\Listcontent.g.cs
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Interfaces\InterXml.baml
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Pages\Detail.baml
+C:\Users\demir\source\repos\COED\COED\obj\Debug\Pages\Listcontent.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\bin\Debug\COED.exe.config
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\bin\Debug\COED.exe
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\bin\Debug\COED.pdb
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED.csprojAssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Interfaces\Define.g.cs
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Interfaces\InterXml.g.cs
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Interfaces\Message.g.cs
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\MainWindow.g.cs
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Pages\Detail.g.cs
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Pages\Listcontent.g.cs
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Pages\Welcome.g.cs
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\App.g.cs
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED_MarkupCompile.cache
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED_MarkupCompile.lref
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\App.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Interfaces\Define.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Interfaces\InterXml.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Interfaces\Message.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\MainWindow.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Pages\Detail.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Pages\Listcontent.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\Pages\Welcome.baml
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED.g.resources
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED.Properties.Resources.resources
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED.csproj.GenerateResource.cache
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED.exe
+C:\Users\demir\OneDrive\Masaüstü\turk\COED\COED\obj\Debug\COED.pdb
+D:\turk\COED\COED\bin\Debug\COED.exe.config
+D:\turk\COED\COED\bin\Debug\COED.exe
+D:\turk\COED\COED\bin\Debug\COED.pdb
+D:\turk\COED\COED\obj\Debug\COED.csprojAssemblyReference.cache
+D:\turk\COED\COED\obj\Debug\Interfaces\InterXml.g.cs
+D:\turk\COED\COED\obj\Debug\Interfaces\Message.g.cs
+D:\turk\COED\COED\obj\Debug\MainWindow.g.cs
+D:\turk\COED\COED\obj\Debug\Pages\Detail.g.cs
+D:\turk\COED\COED\obj\Debug\Pages\Elaboration.g.cs
+D:\turk\COED\COED\obj\Debug\Pages\Listcontent.g.cs
+D:\turk\COED\COED\obj\Debug\Pages\Welcome.g.cs
+D:\turk\COED\COED\obj\Debug\App.g.cs
+D:\turk\COED\COED\obj\Debug\COED_MarkupCompile.cache
+D:\turk\COED\COED\obj\Debug\COED_MarkupCompile.lref
+D:\turk\COED\COED\obj\Debug\App.baml
+D:\turk\COED\COED\obj\Debug\Interfaces\InterXml.baml
+D:\turk\COED\COED\obj\Debug\Interfaces\Message.baml
+D:\turk\COED\COED\obj\Debug\MainWindow.baml
+D:\turk\COED\COED\obj\Debug\Pages\Detail.baml
+D:\turk\COED\COED\obj\Debug\Pages\Elaboration.baml
+D:\turk\COED\COED\obj\Debug\Pages\Listcontent.baml
+D:\turk\COED\COED\obj\Debug\Pages\Welcome.baml
+D:\turk\COED\COED\obj\Debug\COED.g.resources
+D:\turk\COED\COED\obj\Debug\COED.Properties.Resources.resources
+D:\turk\COED\COED\obj\Debug\COED.csproj.GenerateResource.cache
+D:\turk\COED\COED\obj\Debug\COED.csproj.CoreCompileInputs.cache
+D:\turk\COED\COED\obj\Debug\COED.exe
+D:\turk\COED\COED\obj\Debug\COED.pdb
+D:\turk\COED\COED\bin\Debug\EntityFramework.dll
+D:\turk\COED\COED\bin\Debug\EntityFramework.SqlServer.dll
+D:\turk\COED\COED\bin\Debug\EntityFramework.xml
+D:\turk\COED\COED\bin\Debug\EntityFramework.SqlServer.xml
+D:\turk\COED\COED\obj\Debug\COED.csproj.CopyComplete
+D:\turk\COED\COED\obj\Debug\Pages\Definition.g.cs
+D:\turk\COED\COED\bin\Debug\WpfAnimatedGif.dll
+D:\turk\COED\COED\bin\Debug\WpfAnimatedGif.xml
+D:\turk\COED\COED\obj\Debug\Pages\Definition.baml
+D:\turk\COED\COED\obj\Debug\Interfaces\Define.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\COED.exe.config
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\COED.exe
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\COED.pdb
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Interfaces\InterXml.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Interfaces\Message.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\MainWindow.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Definition.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Detail.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Elaboration.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Listcontent.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Welcome.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\App.g.cs
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED_MarkupCompile.cache
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED_MarkupCompile.lref
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\App.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Interfaces\InterXml.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Interfaces\Message.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\MainWindow.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Definition.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Detail.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Elaboration.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Listcontent.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\Pages\Welcome.baml
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED.g.resources
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED.Properties.Resources.resources
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED.csproj.GenerateResource.cache
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED.csproj.CopyComplete
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED.exe
+C:\Users\Mustafa Demirel\source\repos\COED\COED\obj\Debug\COED.pdb
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\COED.exe.config
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\COED.exe
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\COED.pdb
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED.csprojAssemblyReference.cache
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Interfaces\InterXml.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Interfaces\Message.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\MainWindow.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Definition.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Detail.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Elaboration.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Listcontent.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Welcome.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\App.g.cs
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED_MarkupCompile.cache
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED_MarkupCompile.lref
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\App.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Interfaces\InterXml.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Interfaces\Message.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\MainWindow.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Definition.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Detail.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Elaboration.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Listcontent.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\Pages\Welcome.baml
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED.g.resources
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED.Properties.Resources.resources
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED.csproj.GenerateResource.cache
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED.csproj.CopyComplete
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED.exe
+C:\Users\Mustafa Demirel\Desktop\COED\COED\obj\Debug\COED.pdb

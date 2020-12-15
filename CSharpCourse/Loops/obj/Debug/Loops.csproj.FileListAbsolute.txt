@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\Engin\source\repos\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\Engin\source\repos\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\Engin\source\repos\CSharpCourse\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\Engin\source\repos\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\Engin\source\repos\CSharpCourse\Loops\obj\Debug\Loops.pdb
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Loops\obj\Debug\Loops.pdb

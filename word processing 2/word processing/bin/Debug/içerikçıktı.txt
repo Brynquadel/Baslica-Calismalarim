@@ -1,0 +1,35 @@
+ 
+TEXTİÇERDE1
+	Bir yazıyı şekil, [b]anlatım ve noktalama[b] özellikleriyle oluşturan kelimelerin bütününe metin adı verilir. 
+Diğer bir ifadeyle metin, iletişim kurmak için oluşturulan cümleler topluluğudur. 
+Sözlü ya da yazılı iletişim içi		n üretilen anlamlı yapıdır.    ss
+Yazar, iletmek istediği mesajı [i]metin aracılığıyla[i] ifade eder.          -mm
+TEXTİÇERDE2
+ 
+CODEİÇERDE1
+[HAYIRDIR]
+void draw_color_panel()
+{
+   int left, top, c, color;
+
+   left = 100;
+   top = 436;
+
+   color = getcolor();
+   setcolor(GREEN);
+   rectangle(4,431,635,457);
+   setcolor(RED);
+   settextstyle(TRIPLEX_FONT,0,2);
+   outtextxy(10,431,"Colors : ");
+
+   for( c = 1 ; c <= 15 ; c++ )
+   {
+      setfillstyle(SOLID_FILL, c);
+      bar(left, top, left+16, top+16);
+      leftcolor = left;
+      left += 26;
+   }
+
+   setcolor(color);
+}
+CODEİÇERDE2

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <game id="-">
+    <exp>-</exp>
+    <eva>-</eva>
+  </game>
+  <game id="Soldat">
+    <exp>Soldat</exp>
+    <eva>Soldat</eva>
+  </game>
+  <game id="Crysis">
+    <exp>Crysis</exp>
+    <eva>Crysis</eva>
+  </game>
+</data>

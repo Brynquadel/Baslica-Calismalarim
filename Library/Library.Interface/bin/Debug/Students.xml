@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student id="0">
+    <StudentName>Kütüphane</StudentName>
+    <StudentCity />
+    <StudentNumber />
+    <StudentSchool />
+    <StudentSchoolPart />
+    <StudentPartClass />
+    <StudentBookCount />
+  </Student>
+  <Student id="1">
+    <StudentName>Alper Kara</StudentName>
+    <StudentCity>Adana</StudentCity>
+    <StudentNumber>186002002</StudentNumber>
+    <StudentSchool>Çukurova Üniversitesi</StudentSchool>
+    <StudentSchoolPart>Bilgisayar Programcılığı</StudentSchoolPart>
+    <StudentPartClass>1</StudentPartClass>
+    <StudentBookCount>0</StudentBookCount>
+  </Student>
+  <Student id="2">
+    <StudentName>Mustafa Demirel</StudentName>
+    <StudentCity>İstanbul</StudentCity>
+    <StudentNumber>186002034</StudentNumber>
+    <StudentSchool>Boğaziçi Üniversitesi</StudentSchool>
+    <StudentSchoolPart>Yazılım Mühendisliği</StudentSchoolPart>
+    <StudentPartClass>3</StudentPartClass>
+    <StudentBookCount>0</StudentBookCount>
+  </Student>
+  <Student id="3">
+    <StudentName>Murat Çelik</StudentName>
+    <StudentCity>Tekirdağ</StudentCity>
+    <StudentNumber>186005265</StudentNumber>
+    <StudentSchool>Tekirdağ Üniversitesi</StudentSchool>
+    <StudentSchoolPart>Astronomi</StudentSchoolPart>
+    <StudentPartClass>2</StudentPartClass>
+    <StudentBookCount>0</StudentBookCount>
+  </Student>
+  <Student id="4">
+    <StudentName>Alper Kara</StudentName>
+    <StudentCity>Adana</StudentCity>
+    <StudentNumber>186002002</StudentNumber>
+    <StudentSchool>Çukurova Üniversitesi</StudentSchool>
+    <StudentSchoolPart>Bilgisayar Programcılığı</StudentSchoolPart>
+    <StudentPartClass>1</StudentPartClass>
+    <StudentBookCount>0</StudentBookCount>
+  </Student>
+</Students>
