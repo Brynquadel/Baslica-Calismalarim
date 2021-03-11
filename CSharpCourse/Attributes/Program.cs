@@ -27,7 +27,7 @@ namespace Attributes
     class Customer
     {
         public int Id { get; set; }
-        [RequiredProperty] // doldurulması gerekli anlamındadır
+        [RequiredProperty] // doldurulması gerekli anlamındadır // bu durum solid'e aykırıdır
         public string FirstName { get; set; }
         [RequiredProperty]
         public string LastName { get; set; }
