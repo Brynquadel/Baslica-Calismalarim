@@ -1,7 +1,0 @@
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.exe
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.exe
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

@@ -1,7 +1,0 @@
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Expressions\bin\Debug\Expressions.exe.config
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Expressions\bin\Debug\Expressions.exe
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Expressions\bin\Debug\Expressions.pdb
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Expressions\obj\Debug\Expressions.csprojAssemblyReference.cache
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Expressions\obj\Debug\Expressions.csproj.CoreCompileInputs.cache
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Expressions\obj\Debug\Expressions.exe
-C:\Users\demir\OneDrive\Masaüstü\CSharpCourse\Expressions\obj\Debug\Expressions.pdb
