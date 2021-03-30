@@ -1,4 +1,4 @@
-# Baslica-Calismalarim
+# Eski-Calismalarim
  Mustafa Demirel
  
 COED - Veritabanı kontrolüyle sağlanan, blok sistemini kullanan bir içerik yönetim uygulaması
